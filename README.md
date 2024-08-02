@@ -1,6 +1,7 @@
 # Hello, I'm Stanislav!
-<img src="[https://example.com/logo.png](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)" width="150">
-About Me
+
+ 
+##  About Me
 I am a mechanical engineer working as a sales representative with a passion to exploring the world of web development. Currently, I work primarily with Python, and in the future, I plan to learn more about various front-end and back-end lengueges and technologies.
 At the moment, I enjoy working with Django and am open to new challenges.
 
